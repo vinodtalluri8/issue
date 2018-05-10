@@ -1,0 +1,16 @@
+.box-styling{
+    border: solid 2px maroon;
+    margin: 2px;
+    box-sizing: border-box;
+    float: left;
+    padding: 5px;
+
+}
+
+spacing {
+    padding: 2px;
+}
+
+.ui-multiselect .ui-multiselect-label{
+    color: grey;
+}
